@@ -5,7 +5,8 @@
 .city-name {
     background-color: white;
     color: black;
-    width: 300px;
+    display: inline-block;
+    /* padding: 6px 60px; */
 }
 
 .container {
@@ -16,9 +17,10 @@
     background-color: rgb(87, 81, 81);
     color: cornsilk;
     margin-left: 2em;
+    margin-right: 1em;
     padding: 6em;
     border: none;
-    box-shadow: -10px 10px 20px gray;
+    /* box-shadow: -10px 10px 20px gray; */
 }
 
 .col {
