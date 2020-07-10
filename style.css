@@ -1,0 +1,49 @@
+.carousel-inner img {
+    height: 500px;
+}
+
+.city-name {
+    background-color: white;
+    color: black;
+    width: 300px;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.article {
+    background-color: rgb(87, 81, 81);
+    color: cornsilk;
+    margin-left: 2em;
+    padding: 6em;
+    border: none;
+    box-shadow: -10px 10px 20px gray;
+}
+
+.col {
+    background-color: rgb(87, 81, 81);
+    text-align: center;
+    padding: 1em;
+}
+
+.col p {
+    color: cornsilk;
+}
+
+.col:hover {
+    background-color: rgb(88, 186, 219);
+    padding: 1.5em 2em 1.5em 2em;
+    border-radius: 2px;
+}
+
+.cat2 {
+    color: rgb(73, 73, 187);
+    text-align: center;
+    margin: 3em 0em 3.5em 0em;
+}
+
+.navbar {
+    color: rgb(15, 15, 15);
+    font-size: bold;
+}
